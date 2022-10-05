@@ -54,4 +54,4 @@
 </ul>
 
 # Working:
-[![Watch the video](https://img.youtube.com/vi/ReeccRD21EU/0.jpg)](https://youtu.be/ReeccRD21EU)
+[![Watch the video](https://github.com/noorkhokhar99/Gender-age-detection/blob/main/Screen%20Shot%201444-03-09%20at%2010.19.31%20PM.png)](https://www.youtube.com/c/pyresearch)
